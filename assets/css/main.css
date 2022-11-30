@@ -11,6 +11,25 @@
 	background-image: url(https://media.istockphoto.com/id/1180857900/es/foto/equipos-de-elaboraci%C3%B3n-de-acero-inoxidable-grandes-dep%C3%B3sitos-o-tanques-y-tuber%C3%ADas-en-la.jpg?s=612x612&w=0&k=20&c=_VpwOyb62QVpzk5bLFWBWbgho_5PzIeN7yLpIxRMxP0=);
 }
 
+#beerGarden{
+	height: 50rem;
+}
+
+#whatTap{
+	height: 55rem;
+}
+
+#hours, #hoursImage{
+	text-align: center;
+	height: 65rem
+}
+
+
+
+#hoursUl{
+	list-style: none;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
