@@ -7,8 +7,24 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-#banner{
+/* #banner{
 	background-image: url(https://media.istockphoto.com/id/1180857900/es/foto/equipos-de-elaboraci%C3%B3n-de-acero-inoxidable-grandes-dep%C3%B3sitos-o-tanques-y-tuber%C3%ADas-en-la.jpg?s=612x612&w=0&k=20&c=_VpwOyb62QVpzk5bLFWBWbgho_5PzIeN7yLpIxRMxP0=);
+} */
+#banner{
+	background-image: url(https://images.pexels.com/photos/14252293/pexels-photo-14252293.png?auto=compress&cs=tinysrgb&w=1600);
+	background-size: inherit;
+	background-position: center;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	color: white;
+}
+
+#cta{
+	background-image: url(https://images.pexels.com/photos/1267328/pexels-photo-1267328.jpeg?auto=compress&cs=tinysrgb&w=1600);
+	background-size: 100%;
+}
+
+#cta .inner{
+	justify-content: center;
 }
 
 #beerGarden{
@@ -21,9 +37,41 @@
 
 #hours, #hoursImage{
 	text-align: center;
-	height: 65rem
+	height: 35rem
 }
 
+#three li{
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	color: white;
+}
+
+#nflSunday{
+	background-image: url(https://images.pexels.com/photos/2570139/pexels-photo-2570139.jpeg?auto=compress&cs=tinysrgb&w=1600);
+	background-size: 50rem;
+	background-repeat: no-repeat;
+}
+
+#liveMusic{
+	background-image: url(https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&w=1600);
+	background-size: 45rem;
+	background-repeat: no-repeat;
+}
+
+#brewCrew{
+	background-image: url(https://images.pexels.com/photos/1267361/pexels-photo-1267361.jpeg?auto=compress&cs=tinysrgb&w=1600);
+	background-size: 42rem;
+	background-repeat: no-repeat;
+}
+
+#beerMile{
+	background-image: url(https://images.pexels.com/photos/2526878/pexels-photo-2526878.jpeg?auto=compress&cs=tinysrgb&w=1600);
+	background-size: 60rem;
+	background-repeat: no-repeat;
+}
+
+.features h3{
+	text-decoration: underline;
+}
 
 
 #hoursUl{
