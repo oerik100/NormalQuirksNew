@@ -14,8 +14,16 @@
 	background-image: url(https://images.pexels.com/photos/14252293/pexels-photo-14252293.png?auto=compress&cs=tinysrgb&w=1600);
 	background-size: inherit;
 	background-position: center;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	/* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 	color: white;
+	font-size: 40px;
+	-webkit-text-fill-color: black;
+	-webkit-text-stroke: 1px;
+}
+
+#banner p{
+	font-size: 40px;
+	
 }
 
 #cta{
